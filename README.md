@@ -1,4 +1,4 @@
-# НОРМА СИЗ / NORMA PPE  
+# НОРМА СИЗ / NORMS PPE  
 *Программа для автоматизированного учёта средств индивидуальной защиты*  
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
